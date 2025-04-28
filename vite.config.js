@@ -66,7 +66,8 @@ export default defineConfig({
         ]
       },
       workbox: {
-        navigateFallback: 'index.html'
+        navigateFallback: 'index.html',
+        maximumFileSizeToCacheInBytes: 3000000,
       },
       devOptions: {
         // enabled: true,
