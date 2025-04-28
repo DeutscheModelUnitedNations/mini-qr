@@ -1,6 +1,6 @@
 {
   "props": {
-    "data": "https://www.myspeciallink.com",
+    "data": "https://dmun.de",
     "image": "",
     "width": 200,
     "height": 200,
@@ -25,7 +25,7 @@
     }
   },
   "style": {
-    "borderRadius": "24px",
+    "borderRadius": "0px",
     "background": "#ffffff"
   }
 }
